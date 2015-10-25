@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            The Ashley Code
+title:            Some Blog Name
 locale:           en_US
-url:              //amerriman.github.io/blog
+# url:              //amerriman.github.io/blog
 
 
 # Jekyll configuration
@@ -31,7 +31,7 @@ owner:
   bio: "Developer. Adventurer. Colorado native."
   email:
   disqus-shortname:
-  twitter: TheAshleyCode
+  twitter: TheAshMerriman
   facebook: #username
   google:
     plus: #username
