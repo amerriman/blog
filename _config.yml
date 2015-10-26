@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Some Blog Name
+title:            AM
 locale:           en_US
-url:              //amerriman.github.io/blog
+# url:              //amerriman.github.io/blog
 
 
 # Jekyll configuration
@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Ashley Merriman
-  avatar: bio-photo.jpg
+  avatar: bwleaves.jpg
   bio: "Developer. Adventurer. Colorado native."
   email:
   disqus-shortname:
