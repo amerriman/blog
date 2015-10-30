@@ -14,5 +14,5 @@ Welcome to This Blog That Will Have a Name Someday!
 
 ## Eventually I'll say something here:
 
-* Just wait...
+* Just wait...stay tuned for something awesome!
 
