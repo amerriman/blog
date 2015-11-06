@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Women in Tech"
-excerpt: "Movie Review- 'Debugging The Gender Gap'"
+title: "Finding Resources"
+excerpt: "How do you find a good learning resource?"
 tags: [movies, tech, women]
 comments:
 ---
