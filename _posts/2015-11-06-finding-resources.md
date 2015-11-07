@@ -2,7 +2,7 @@
 layout: post
 title: "Finding Resources"
 excerpt: "How do you find a good learning resource?"
-tags: [movies, tech, women]
+tags: [resources, learning]
 comments:
 ---
 
