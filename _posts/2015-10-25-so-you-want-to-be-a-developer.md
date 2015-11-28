@@ -2,6 +2,8 @@
 layout: post
 title: "So You Want To Be A Developer"
 excerpt: "Learn to code."
+image:
+  feature: sample-image-4.jpg
 tags: [learning, bootcamp]
 comments:
 ---
